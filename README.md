@@ -18,6 +18,3 @@ As a celebration of the New Year, we are providing the gamemode as open source t
 
 # Account Tests
 Test_Character : test123
-
-# Make yourself Admin
-/ssadmindd
